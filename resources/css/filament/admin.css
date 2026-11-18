@@ -1,0 +1,25 @@
+.fi-sidebar {
+    background: #f8fafc;
+}
+
+.fi-sidebar-item {
+    border-radius: 12px;
+}
+
+.fi-sidebar-item-active {
+    background: #e8f0ff;
+}
+
+.fi-sidebar-footer {
+    padding: 18px;
+}
+
+.logout-big {
+    width: 100%;
+    padding: 12px;
+    border-radius: 12px;
+    background: #1d4ed8;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
